@@ -7,3 +7,5 @@
 <p>•	FXML-based UI layout</p>
 <p>•	Controller class with event handling
 <p>•	Maven build configuration</p>
+<p></p>
+<p>Run: mvn javafx:run</p>
